@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Serendipity-Eureka</title>
+  
+  <subtitle>Oberving, Coding, Loving</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://ingingx.github.io/"/>
+  <updated>2020-05-10T09:57:47.772Z</updated>
+  <id>https://ingingx.github.io/</id>
+  
+  <author>
+    <name>Yingpeng MA</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://ingingx.github.io/hello-world/"/>
+    <id>https://ingingx.github.io/hello-world/</id>
+    <published>2020-05-10T09:57:47.772Z</published>
+    <updated>2020-05-10T09:57:47.772Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><h3 id="中文测试"><a href="#中文测试" class="headerlink" title="中文测试"></a>中文测试</h3><figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="function"><span class="keyword">def</span> <span class="title">helper</span><span class="params">(str s1, str s2)</span></span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
+      
+    
+    </summary>
+    
+    
+      <category term="Tech Skills" scheme="https://ingingx.github.io/categories/Tech-Skills/"/>
+    
+    
+      <category term="Rookies" scheme="https://ingingx.github.io/tags/Rookies/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>几个单词（以及博客名的由来和意义~）</title>
+    <link href="https://ingingx.github.io/%E5%87%A0%E4%B8%AA%E5%8D%95%E8%AF%8D%EF%BC%88%E4%BB%A5%E5%8F%8A%E5%8D%9A%E5%AE%A2%E5%90%8D%E7%9A%84%E7%94%B1%E6%9D%A5%E5%92%8C%E6%84%8F%E4%B9%89-%EF%BC%89/"/>
+    <id>https://ingingx.github.io/%E5%87%A0%E4%B8%AA%E5%8D%95%E8%AF%8D%EF%BC%88%E4%BB%A5%E5%8F%8A%E5%8D%9A%E5%AE%A2%E5%90%8D%E7%9A%84%E7%94%B1%E6%9D%A5%E5%92%8C%E6%84%8F%E4%B9%89-%EF%BC%89/</id>
+    <published>2020-03-01T18:15:33.000Z</published>
+    <updated>2020-05-10T09:57:47.772Z</updated>
+    
+    <content type="html"><![CDATA[<p>Topic: Serendipity-Eureka 是什么意思呢； &amp; 几个饱含深意的单词~</p><h2 id="1-Serendipity-Eureka-是什么意思呢？"><a href="#1-Serendipity-Eureka-是什么意思呢？" class="headerlink" title="1. Serendipity-Eureka 是什么意思呢？"></a>1. Serendipity-Eureka 是什么意思呢？</h2><h3 id="Serendipity"><a href="#Serendipity" class="headerlink" title="Serendipity"></a>Serendipity</h3><p><strong>Eng.</strong> an aptitude for making desirable discoveries by accident.</p><p><strong>中文</strong> 与美好的事物不期而遇，意外发现美好事物的能力</p><p><img src="/image/Serendipity.jpg" alt=""></p><h3 id="Eureka"><a href="#Eureka" class="headerlink" title="Eureka"></a>Eureka</h3><p><strong>Eng.</strong> I have found it!</p><p><strong>中文</strong> 传说阿基米德被国王邀请检验做王冠的黄金是否足量。他冥思苦想数日，却终究不得其解。有一日他坐进澡盆准备洗澡，看到水往外溢，灵光乍现，想出了测量方法，激动得连衣服都没顾上穿就跑到了街上，大喊着：“Eureka！Eureka！”（这也是发现浮力原理的典故）。<br>Eureka 的意思便是：当解决了一个困扰许久的重要问题或有了重大发现时的那种狂喜和雀跃：Eureka！</p><p><img src="/image/Eureka.png" alt=""></p><h2 id="2-其他的几个很有意思的单词"><a href="#2-其他的几个很有意思的单词" class="headerlink" title="2. 其他的几个很有意思的单词"></a>2. 其他的几个很有意思的单词</h2><h3 id="Ethereal"><a href="#Ethereal" class="headerlink" title="Ethereal"></a>Ethereal</h3><p><img src="/image/Ethereal.jpg" alt=""></p><h3 id="Ineffable"><a href="#Ineffable" class="headerlink" title="Ineffable"></a>Ineffable</h3><p><img src="/image/Ineffable.jpg" alt=""></p><h3 id="Iridescent"><a href="#Iridescent" class="headerlink" title="Iridescent"></a>Iridescent</h3><p><img src="/image/Iridescent.jpg" alt=""></p><h3 id="Solitude"><a href="#Solitude" class="headerlink" title="Solitude"></a>Solitude</h3><p><img src="/image/Solitude.jpg" alt=""></p><h3 id="Ephemeral"><a href="#Ephemeral" class="headerlink" title="Ephemeral"></a>Ephemeral</h3><p><img src="/image/Ephemeral.jpg" alt=""></p><h3 id="Limerence"><a href="#Limerence" class="headerlink" title="Limerence"></a>Limerence</h3><p><img src="/image/Limerence.jpg" alt=""></p><h3 id="Petrichor"><a href="#Petrichor" class="headerlink" title="Petrichor"></a>Petrichor</h3><p><img src="/image/Petrichor.jpg" alt=""></p><ul><li>Pics from: <a href="https://www.quora.com/Vocabulary-of-the-English-Language/What-is-the-most-beautiful-word-in-the-English-language-and-why" target="_blank" rel="noopener">quora</a>, <a href="https://imgflip.com/i/2fc5r2" target="_blank" rel="noopener">imgflip</a></li></ul>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;Topic: Serendipity-Eureka 是什么意思呢； &amp;amp; 几个饱含深意的单词~&lt;/p&gt;
+&lt;h2 id=&quot;1-Serendipity-Eureka-是什么意思呢？&quot;&gt;&lt;a href=&quot;#1-Serendipity-Eureka-是什么意思呢？&quot; clas
+      
+    
+    </summary>
+    
+    
+      <category term="Study" scheme="https://ingingx.github.io/categories/Study/"/>
+    
+    
+      <category term="Rookies" scheme="https://ingingx.github.io/tags/Rookies/"/>
+    
+      <category term="English" scheme="https://ingingx.github.io/tags/English/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>German Computer Vision Research Groups and Companies</title>
+    <link href="https://ingingx.github.io/German-Computer-Vision-Research-Groups-and-Companies/"/>
+    <id>https://ingingx.github.io/German-Computer-Vision-Research-Groups-and-Companies/</id>
+    <published>2020-03-01T10:35:22.000Z</published>
+    <updated>2020-05-10T09:57:47.772Z</updated>
+    
+    <content type="html"><![CDATA[<p><a href="https://hci.iwr.uni-heidelberg.de/links/german_vision" target="_blank" rel="noopener">https://hci.iwr.uni-heidelberg.de/links/german_vision</a></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;&lt;a href=&quot;https://hci.iwr.uni-heidelberg.de/links/german_vision&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://hci.iwr.uni-heidelberg.de/links/ge
+      
+    
+    </summary>
+    
+    
+      <category term="Research" scheme="https://ingingx.github.io/categories/Research/"/>
+    
+    
+      <category term="University" scheme="https://ingingx.github.io/tags/University/"/>
+    
+      <category term="Germany" scheme="https://ingingx.github.io/tags/Germany/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>git 代理配置与 git clone 下载加速</title>
+    <link href="https://ingingx.github.io/git-clone-%E4%BB%A3%E7%90%86%E4%B8%8E%E5%8A%A0%E9%80%9F/"/>
+    <id>https://ingingx.github.io/git-clone-%E4%BB%A3%E7%90%86%E4%B8%8E%E5%8A%A0%E9%80%9F/</id>
+    <published>2020-02-26T20:52:27.000Z</published>
+    <updated>2020-05-10T09:57:47.772Z</updated>
+    
+    <content type="html"><![CDATA[<p>Topics: 解决 <code>git clone</code> 下载、GitHub 网页打开慢的问题；以及讨论一下git中如何配置代理服务器。</p><p>Notes: 此文将介绍两种方法解决墙内 <code>git clone</code> 下载慢的问题。其中方法一在本文发出时（2020-02-26）测试无效，但去年（2019年）测试有效；方法二需要使用 ssr 或 v2ray 代理，请尝试前确定您可以在使用代理的情况下打开<a href="www.google.com">谷歌搜索</a>。</p><h2 id="1-修改-host-文件以加速-git-clone-和-GitHub-访问"><a href="#1-修改-host-文件以加速-git-clone-和-GitHub-访问" class="headerlink" title="1. 修改 host 文件以加速 git clone 和 GitHub 访问"></a>1. 修改 <code>host</code> 文件以加速 <code>git clone</code> 和 GitHub 访问</h2><h3 id="steps"><a href="#steps" class="headerlink" title="steps:"></a>steps:</h3><p>在 <a href="https://www.ipip.net/ip.html" target="_blank" rel="noopener">ip 查询网页</a> 查询以下几个网址的当前 IP 地址：</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">github.global.ssl.fastly.Net</span><br><span class="line">github.com</span><br></pre></td></tr></table></figure><p>其中，第一个在 GitHub 上 clone 时的下载服务器地址，第二个是 GitHub 官网地址。</p><p>由于本地 IP 不同，所以每个人查询到的 GitHub 访问 IP 也不同。我查询出来是：</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">199.59.148.140</span><br><span class="line">13.229.188.59</span><br></pre></td></tr></table></figure><p>记录下这几个 IP， 去 host 文件，右键使用记事本打开：C:\Windows\System32\drivers\etc\hosts</p><p>在 host 文件末尾添加：</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">github.global.ssl.fastly.Net 199.59.148.140</span><br><span class="line">github.com 13.229.188.59</span><br></pre></td></tr></table></figure><p>最后使用命令提示符刷新 DNS 缓存，让计算机每次访问以上两个网址的时候都是用我们设定的 IP 访问 （这样理论上就可以避免被墙）：</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ ipconfig /flushdns</span><br></pre></td></tr></table></figure><h3 id="notes"><a href="#notes" class="headerlink" title="notes:"></a>notes:</h3><p>之前博主也是使用这种办法加速 <code>git clone</code>，但是最近似乎墙更高了，在两台电脑上测试了多次都无法加速。如果有大佬知道其中缘由或者可以改进还望不吝赐教。</p><h2 id="2-通过修改-Git-本身的配置以加速-git-clone"><a href="#2-通过修改-Git-本身的配置以加速-git-clone" class="headerlink" title="2. 通过修改 Git 本身的配置以加速 git clone"></a>2. 通过修改 Git 本身的配置以加速 <code>git clone</code></h2><h3 id="steps-1"><a href="#steps-1" class="headerlink" title="steps:"></a>steps:</h3><p>连接你的 vpn，设置为“全局代理模式”。可以通过尝试打开<a href="www.google.com">谷歌搜索</a>来测试是否连接成功。</p><p>找到 vpn 的本地代理端口（一般是1080，但是也可能是其他的），我这里使用的是1080。</p><p>打开命令提示符，查看 Git 的的配置：</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ git config -l</span><br></pre></td></tr></table></figure><p>确认你的配置列表里没有 <code>https.proxy</code>，<code>http.proxy</code> 等带有 <code>proxy</code> 的配置。如果有，请参照本文下一部分（3）中的“取消代理设置”将之取消。</p><p>如果你使用 ssr 代理（socks5 协议），则输入：</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">$ git config --global http.proxy socks5://127.0.0.1:1080</span><br><span class="line">$ git config --global https.proxy socks5://127.0.0.1:1080</span><br></pre></td></tr></table></figure><p>配置所有 Git 的网络访问都通过代理完成；</p><p>如果你使用 v2ray 代理（http/https 协议），则输入：</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">$ git config --global http.proxy http://127.0.0.1:1080</span><br><span class="line">$ git config --global https.proxy https://127.0.0.1:1080</span><br></pre></td></tr></table></figure><h3 id="notes-1"><a href="#notes-1" class="headerlink" title="notes:"></a>notes:</h3><p>这个方法需要使用 ssr 或 v2ray 等 vpn 代理，这通常需要付费租用代理服务器或者购买节点。但好处是比较稳定，只要代理没有问题，Git 就可以满带宽下载（unlike 方法1，花钱才能变强）。博主目前使用了3个月，没有出现任何问题。</p><h2 id="3-Git-的代理配置和一些思考"><a href="#3-Git-的代理配置和一些思考" class="headerlink" title="3. Git 的代理配置和一些思考"></a>3. Git 的代理配置和一些思考</h2><p>在命令提示符，可以查看 Git 的的配置：</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ git config -l</span><br></pre></td></tr></table></figure><p><img src="/image/gitConfig.png" alt=""></p><p>其中，最后两行就是我们刚设置的代理。</p><p>如果想要恢复某个设置为初始值，可以这样：</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ git config --global --<span class="built_in">unset</span> [configName]</span><br></pre></td></tr></table></figure><p>比如，想要取消刚才设置的代理：</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">$ git config --global --<span class="built_in">unset</span> http.proxy</span><br><span class="line">$ git config --global --<span class="built_in">unset</span> https.proxy</span><br></pre></td></tr></table></figure><p>看一下 <code>git config -l</code>，是不是就没有代理的那个变量了？</p><h3 id="notes-2"><a href="#notes-2" class="headerlink" title="notes:"></a>notes:</h3><p>Git 是强大的工具，想用好它绝不是几个命令就ok的。通常使用的命令大约有10-20个，要精通则需要熟练至少50个相关的命令以及搞懂各个部分的功能和组成结构。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;Topics: 解决 &lt;code&gt;git clone&lt;/code&gt; 下载、GitHub 网页打开慢的问题；以及讨论一下git中如何配置代理服务器。&lt;/p&gt;
+&lt;p&gt;Notes: 此文将介绍两种方法解决墙内 &lt;code&gt;git clone&lt;/code&gt; 下载慢的问题。其中方法一
+      
+    
+    </summary>
+    
+    
+      <category term="Tech Skills" scheme="https://ingingx.github.io/categories/Tech-Skills/"/>
+    
+    
+      <category term="Git" scheme="https://ingingx.github.io/tags/Git/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Start with Git</title>
+    <link href="https://ingingx.github.io/Git-Installation-and-Badic-Git-Comments/"/>
+    <id>https://ingingx.github.io/Git-Installation-and-Badic-Git-Comments/</id>
+    <published>2020-02-25T15:23:30.000Z</published>
+    <updated>2020-05-10T09:57:47.772Z</updated>
+    
+    <content type="html"><![CDATA[<p>Topics: Git Installation and Basic Git Comments.</p><p><a href="https://git-scm.com/" target="_blank" rel="noopener">Git</a> is a free and open source distributed version control system. We can use it to operate our <a href="https://www.github.com" target="_blank" rel="noopener">GitHub</a> repos. Now let’s see its installation and some basic comments!</p><h2 id="Part-1-Git-Installation-for-Windows"><a href="#Part-1-Git-Installation-for-Windows" class="headerlink" title="Part 1: Git Installation (for Windows)"></a>Part 1: Git Installation (for Windows)</h2><h3 id="1-Download-‘git-exe’"><a href="#1-Download-‘git-exe’" class="headerlink" title="1. Download ‘git.exe’"></a>1. Download ‘git.exe’</h3><p>Click <a href="https://git-scm.com/download/win" target="_blank" rel="noopener">here</a> and download the right version.</p><p>You may need some proxy to accelerate the downloading process.</p><h3 id="2-Click-‘next’"><a href="#2-Click-‘next’" class="headerlink" title="2. Click ‘next’"></a>2. Click ‘next’</h3><p>Open your ‘.exe’ file just downloaded, and click ‘next’ for default installation, or choose ‘custom install’ if you know what you are doing.</p><h3 id="3-Now-it’s-all-set-Try-out-your-first-Git-Comment"><a href="#3-Now-it’s-all-set-Try-out-your-first-Git-Comment" class="headerlink" title="3. Now it’s all set! Try out your first Git Comment!"></a>3. Now it’s all set! Try out your first Git Comment!</h3><p>See Part 2 below! </p><h2 id="Part-2-Basic-Git-Comments"><a href="#Part-2-Basic-Git-Comments" class="headerlink" title="Part 2: Basic Git Comments"></a>Part 2: Basic Git Comments</h2><h3 id="1-Git-Architecture"><a href="#1-Git-Architecture" class="headerlink" title="1. Git Architecture"></a>1. Git Architecture</h3><p><img src="/image/gitComments.png" alt=""></p><h3 id="2-Basic-Git-Comments"><a href="#2-Basic-Git-Comments" class="headerlink" title="2. Basic Git Comments"></a>2. Basic Git Comments</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br><span class="line">28</span><br><span class="line">29</span><br><span class="line">30</span><br><span class="line">31</span><br><span class="line">32</span><br><span class="line">33</span><br><span class="line">34</span><br><span class="line">35</span><br><span class="line">36</span><br><span class="line">37</span><br><span class="line">38</span><br><span class="line">39</span><br><span class="line">40</span><br><span class="line">41</span><br><span class="line">42</span><br><span class="line">43</span><br><span class="line">44</span><br><span class="line">45</span><br><span class="line">46</span><br><span class="line">47</span><br><span class="line">48</span><br><span class="line">49</span><br><span class="line">50</span><br><span class="line">51</span><br><span class="line">52</span><br><span class="line">53</span><br><span class="line">54</span><br><span class="line">55</span><br><span class="line">56</span><br><span class="line">57</span><br><span class="line">58</span><br></pre></td><td class="code"><pre><span class="line"><span class="comment"># initial current folder</span></span><br><span class="line">$ git init </span><br><span class="line"></span><br><span class="line"><span class="comment"># clone / dowmload a repo</span></span><br><span class="line">$ git <span class="built_in">clone</span> [url] [givenDir]</span><br><span class="line"></span><br><span class="line"><span class="comment"># show Git Configure File</span></span><br><span class="line">$ git cinfig -l </span><br><span class="line"></span><br><span class="line"><span class="comment"># set Username and Password</span></span><br><span class="line">$ git config --global user.name <span class="string">"yourUsername"</span></span><br><span class="line">$ git config --global user.email <span class="string">"yourEmail"</span></span><br><span class="line">$ git config --global user.password <span class="string">"yourPassword"</span></span><br><span class="line"></span><br><span class="line"><span class="comment"># add file from 'givenDir' to 'Index'</span></span><br><span class="line">$ git add [givenDir]</span><br><span class="line"></span><br><span class="line"><span class="comment"># add file from 'currentDir' to 'Index'</span></span><br><span class="line">$ git add .</span><br><span class="line"></span><br><span class="line"><span class="comment"># rename and add file to 'Index'</span></span><br><span class="line">$ git mv [file-original] [file-renamed]</span><br><span class="line"></span><br><span class="line"><span class="comment"># submit 'Index' to 'Repo'</span></span><br><span class="line">$ git commit -m [message]</span><br><span class="line"></span><br><span class="line"><span class="comment"># submit 'Workspace' to 'Repo'</span></span><br><span class="line">$ git commit -a</span><br><span class="line"></span><br><span class="line"><span class="comment"># show file changes</span></span><br><span class="line">$ git status</span><br><span class="line"></span><br><span class="line"><span class="comment"># show current-branch changes</span></span><br><span class="line">$ git <span class="built_in">log</span></span><br><span class="line"></span><br><span class="line"><span class="comment"># show difference between 'Workspace' and 'Index'</span></span><br><span class="line">$ git diff</span><br><span class="line"></span><br><span class="line"><span class="comment"># show all the 'Remote' Repos' info</span></span><br><span class="line">$ git remote -v</span><br><span class="line"></span><br><span class="line"><span class="comment"># show ONE 'Remote' Repo's info</span></span><br><span class="line">$ git remote show [remote]</span><br><span class="line"></span><br><span class="line"><span class="comment"># fetch all 'Remote' Repos and merge into 'Workspace'</span></span><br><span class="line">$ git fetch [remote]</span><br><span class="line"></span><br><span class="line"><span class="comment"># fetch 'Remote' changes, and merge to local branches</span></span><br><span class="line">$ git pull [remote] [branch]</span><br><span class="line"></span><br><span class="line"><span class="comment"># push all 'Repos' to 'Remote'</span></span><br><span class="line">$ git push [remote] --all</span><br><span class="line"></span><br><span class="line"><span class="comment"># push current 'Repo' to 'Remote', ignoring conflict</span></span><br><span class="line">$ git push [remote] --force</span><br><span class="line"></span><br><span class="line"><span class="comment"># release a downloadable archive file</span></span><br><span class="line">$ git archive</span><br></pre></td></tr></table></figure><h3 id="3-Some-words"><a href="#3-Some-words" class="headerlink" title="3. Some words"></a>3. Some words</h3><p>Of course, this article is just a small glance of Git. As referred in the beginning, Git is a powerful tool. You can read <a href="https://git-scm.com/docs" target="_blank" rel="noopener">official documents</a> for more detailed and advanced usage. </p><p>And at the same time, I will keep this article updated along with my journey of coding and studying.</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;Topics: Git Installation and Basic Git Comments.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://git-scm.com/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Git&lt;/a&gt; is a free a
+      
+    
+    </summary>
+    
+    
+      <category term="Tech Skills" scheme="https://ingingx.github.io/categories/Tech-Skills/"/>
+    
+    
+      <category term="Git" scheme="https://ingingx.github.io/tags/Git/"/>
+    
+  </entry>
+  
+</feed>
